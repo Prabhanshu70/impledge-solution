@@ -1,0 +1,10 @@
+/*test case on which I have to perrfrom operation*/
+cat
+cats
+catsdogcats
+catxdogcatsrat
+dog
+dogcatsdog
+hippopotamuses
+rat
+ratcatdogcat
